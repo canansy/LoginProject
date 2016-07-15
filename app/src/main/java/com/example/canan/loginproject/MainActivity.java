@@ -33,8 +33,6 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(MainActivity.this,Main2Activity.class);
         intent.putExtra("username",user);
         intent.putExtra("password",pass);
-        intent.putExtra("password",pass);
-        intent.putExtra("password",pass);
         startActivity(intent);
     }
 

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_35cc2428abe6366b7279e086b3d211b382e2d2bc.jar" />
+    </item>
+    <item
+        jar="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_aad2bcc715548f4e853dbbd96cfc3db436218912.jar" />
+    </item>
+    <item
+        jar="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_ce5c8c4ced9dab353cf1d5f56b9f203c59410abb.jar" />
+    </item>
+    <item
+        jar="/Users/fatihkan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_a6a073e01d1fcde51897b60b5dc2262950d26dad.jar" />
+    </item>
+    <item
+        jar="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_ca9ea6cdb39d40b7b88b6e55536cb265b7ad8efe.jar" />
+    </item>
+    <item
+        jar="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_3a18a9bb65b34b79dfd40d04c44bf11d2b5a9fdc.jar" />
+    </item>
+    <item
+        jar="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_e298d8113ca5928648f66c5704f6e4ae3f2249d4.jar" />
+    </item>
+    <item
+        jar="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b66240bda8e648d3a9f5840b14bdf87d0d382cc2">
+        <dex dex="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_5668c8e60b0d3592852f152e73afc11d435c41c4.jar" />
+    </item>
+    <item
+        jar="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8395078f877193840f5e77ac6aaca802f090fa7c">
+        <dex dex="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/pre-dexed/debug/instant-run_513e8c1d9c06872fd022408e6fb3e378e58d070c.jar" />
+    </item>
+    <item
+        jar="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_2976060f748e961ea85a89585b6e7b94d566b341.jar" />
+    </item>
+
+</items>
